@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:0
+## Just In Time Delivered by dudung, version 0.0.1
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=3150000,RESOLUTION=1280x720,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000"
+https://api.mbed.cc/live/wavve/play.m3u8?id=C4401&q=6&sig=1&auth=1
+#EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=400x224,FRAME-RATE=25,CODECS="avc1.4d000c,mp4a.40.2",AUDIO="aac-lc-96000"
+https://api.mbed.cc/live/wavve/play.m3u8?id=C4401&q=5&sig=1&auth=1
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.4d0016,mp4a.40.2",AUDIO="aac-lc-96000"
+https://api.mbed.cc/live/wavve/play.m3u8?id=C4401&q=4&sig=1&auth=1
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=720x404,FRAME-RATE=25,CODECS="avc1.4d0016,mp4a.40.2",AUDIO="aac-lc-96000"
+https://api.mbed.cc/live/wavve/play.m3u8?id=C4401&q=3&sig=1&auth=1
+#EXT-X-STREAM-INF:BANDWIDTH=2100000,RESOLUTION=960x540,FRAME-RATE=25,CODECS="avc1.4d001f,mp4a.40.2",AUDIO="aac-lc-96000"
+https://api.mbed.cc/live/wavve/play.m3u8?id=C4401&q=2&sig=1&auth=1
+#EXT-X-STREAM-INF:BANDWIDTH=2100000,RESOLUTION=960x540,FRAME-RATE=25,CODECS="avc1.4d001f,mp4a.40.2",AUDIO="aac-lc-96000"
+https://api.mbed.cc/live/wavve/play.m3u8?id=C4401&q=1&sig=1&auth=1
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="Korea",LANGUAGE="KR",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="wave.com"
